@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTeamCityIntegration", "TestTeamCityIntegration\TestTeamCityIntegration.csproj", "{15C4493C-53F1-45F2-BE2E-6E73067FF4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C4493C-53F1-45F2-BE2E-6E73067FF4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C4493C-53F1-45F2-BE2E-6E73067FF4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C4493C-53F1-45F2-BE2E-6E73067FF4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C4493C-53F1-45F2-BE2E-6E73067FF4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415AA353-AE0C-48C1-B1D9-018BC1E06C37}
+	EndGlobalSection
+EndGlobal
