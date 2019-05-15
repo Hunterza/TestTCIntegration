@@ -1,6 +1,5 @@
 C:\Workspace\TestTeamCityIntegration\TestTeamCityIntegration\bin\Debug\TestTeamCityIntegration.dll
 C:\Workspace\TestTeamCityIntegration\TestTeamCityIntegration\bin\Debug\TestTeamCityIntegration.pdb
-C:\Workspace\TestTeamCityIntegration\TestTeamCityIntegration\obj\Debug\TestTeamCityIntegration.csprojAssemblyReference.cache
 C:\Workspace\TestTeamCityIntegration\TestTeamCityIntegration\obj\Debug\TestTeamCityIntegration.csproj.CoreCompileInputs.cache
 C:\Workspace\TestTeamCityIntegration\TestTeamCityIntegration\obj\Debug\TestTeamCityIntegration.dll
 C:\Workspace\TestTeamCityIntegration\TestTeamCityIntegration\obj\Debug\TestTeamCityIntegration.pdb
